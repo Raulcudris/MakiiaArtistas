@@ -10,8 +10,5 @@ Makiia-HomePage-Artist
     *Redes Sociales
     *Link Foto Perfil    
   2.Datos de la Agenda
-    *Crud  
   3.Datos de las Tarifas
-    *Crud   
-  4. Datos del Carrusell
-   * Crud
+  4.Datos del Carrusell
