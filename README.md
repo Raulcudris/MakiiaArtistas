@@ -15,6 +15,6 @@ Makiia-HomePage-Artist
   
   3.Datos de las Tarifas
     *Crud
-  
+   
   4. Datos del Carrusell
-    * Crud
+   * Crud
